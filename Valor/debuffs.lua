@@ -12,9 +12,9 @@ PJD.debuffTrackers = {
   { name = "Morag Tong", shortCode = "MoT", color = "#B8E994", abilityIds = {34384} },
   { name = "Engulfing Flames", shortCode = "EF", color = "#FA8231", abilityIds = {31104} },
   { name = "Minor Vulnerability", shortCode = "mV", color = "#2ECC71", abilityIds = {79717} },
-  { name = "FLAME Weakness", shortCode = "FLAME", color = "#FF382F", abilityIds = {142610} },
-  { name = "FROST Weakness", shortCode = "FROST", color = "#2FECFF", abilityIds = {142652} },
-  { name = "SHOCK Weakness", shortCode = "SHOCK", color = "#CCCCFF", abilityIds = {142653} },
+  { name = "[EC] FLAME Weakness", shortCode = "FLAME", color = "#FF382F", abilityIds = {142610} },
+  { name = "[EC] FROST Weakness", shortCode = "FROST", color = "#2FECFF", abilityIds = {142652} },
+  { name = "[EC] SHOCK Weakness", shortCode = "SHOCK", color = "#CCCCFF", abilityIds = {142653} },
 }
 
 PJD.abilityIdLookup = {}
