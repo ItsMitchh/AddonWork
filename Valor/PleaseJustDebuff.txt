@@ -1,0 +1,14 @@
+## Title: Please Just Debuff
+## Author: @ItsMitchh [EU]
+## APIVersion: 101032
+## DependsOn: LibAddonMenu-2.0
+## SavedVariables: PleaseJustDebuffVars
+## Version: 1.0.10
+## AddOnVersion: 1010
+
+core.lua
+tracking.lua
+debuffs.lua
+menu.lua
+
+ui.xml
